@@ -37,6 +37,7 @@ public class HomeController {
 		System.out.println("나는 윤용ㅎㅎㅎ t(- _-t");
 		System.out.println("임지은이다");
 		System.out.println("나진슬이다");
+		System.out.println("얍얍얍");
 		return "home";
 	}
 	
